@@ -18,7 +18,7 @@ The maximum number of requests that are allowed is based on a time interval, som
 
 
 
-Demo set up Link: 
+Demo set up Link: https://georgehua.github.io/twitter-scrapper/Tweepy.html
 
 
 
@@ -36,7 +36,7 @@ Scweet uses headless browser (selenium) to scrape data. Authentication is requir
 
 
 
-Demo set up Link: 
+Demo set up Link: https://georgehua.github.io/twitter-scrapper/Scweepy_example.html
 
 
 
