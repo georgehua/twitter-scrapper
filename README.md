@@ -1,5 +1,5 @@
-# Twitter Scrapper Evaluation
-Each day Twitter generates a massive amount of data, and there's a lot of opportunities to analyze those tweets for different researches. But before doing all sorts of studies, the first step is always to collect data from Twitter. This repository evaluates different libraries or approaches to scrape data from Twitter. I also built demo programs to set up the pipeline from request data to parse and save to ready-to-use CSV file.
+# Tweets Querying Tools Evaluation
+Each day Twitter generates a massive amount of data, and there's a lot of opportunities to analyze those tweets for different researches. But before doing all sorts of studies, the first step is always to collect data from Twitter. This repository evaluates different libraries or approaches to fetch data from Twitter. I also built demo programs to set up the pipeline from requesting data to parsing and save to ready-to-use CSV file.
 
 
 
@@ -32,7 +32,9 @@ Scweet scrap tweets between two given dates (start_date and max_date), for a giv
 [UserScreenName, UserName, Timestamp, Text, Embedded_text, Emojis, Comments, Likes, Retweets, Image link, Tweet URL]
 ```
 
-Scweet uses selenium to scrape data. Authentication is required in the case of followers/following scraping. It is recommended to log in with a new account (if the list of followers is very long, it is possible that your account will be banned).
+Scweet uses headless browser (selenium) to scrape data. Authentication is required in the case of followers/following scraping. It is recommended to log in with a new account (if the list of followers is very long, it is possible that your account will be banned).
+
+
 
 Demo set up Link: 
 
@@ -42,10 +44,8 @@ Demo set up Link:
 
 A simple script to scrape Tweets using the Python package `requests`†to retrieve the content and `Beautifulsoup4` †to parse the retrieved content.
 
-Tweeter banned the tool at late 2020.
+Twitter banned the tool at late 2020.
 
 
 
 
-
-## 
