@@ -18,7 +18,7 @@ The maximum number of requests that are allowed is based on a time interval, som
 
 
 
-Demo set up Link: https://georgehua.github.io/twitter-scrapper/Tweepy.html
+**Demo set up Link: https://georgehua.github.io/twitter-scrapper/Tweepy.html**
 
 
 
@@ -36,7 +36,7 @@ Scweet uses headless browser (selenium) to scrape data. Authentication is requir
 
 
 
-Demo set up Link: https://georgehua.github.io/twitter-scrapper/Scweepy_example.html
+**Demo set up Link: https://georgehua.github.io/twitter-scrapper/Scweepy_example.html**
 
 
 
@@ -45,7 +45,6 @@ Demo set up Link: https://georgehua.github.io/twitter-scrapper/Scweepy_example.h
 A simple script to scrape Tweets using the Python package `requests`†to retrieve the content and `Beautifulsoup4` †to parse the retrieved content.
 
 Twitter banned the tool at late 2020.
-
 
 
 
